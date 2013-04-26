@@ -1,1 +1,5 @@
 .inquiry_honey { display: none; }
+
+textarea.fullwidth {
+  width: 40%;
+}
